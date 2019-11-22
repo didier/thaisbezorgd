@@ -1,3 +1,5 @@
+// Used to grab all dishes and metadata from a different source.
+
 const gerechten = [];
 document.querySelectorAll('#main form').forEach((gerecht, index) =>
   gerechten.push({

@@ -1,6 +1,7 @@
 // Concatenate Array
 
 export function concatArray(original) {
+  // if (typeof original == {}) {
   const compressed = [];
   // make a copy of the input array
   const copy = original.slice(0);
@@ -18,13 +19,16 @@ export function concatArray(original) {
     }
     if (myCount > 0) {
       let a = {};
-      a.value = original[i];
+      a.id = original[i];
       a.count = myCount;
       compressed.push(a);
     }
   }
 
   return compressed;
+  // } else {
+  // console.error(`${original} is not an array.`);
+  // }
 }
 
 // Convert to kebabcase

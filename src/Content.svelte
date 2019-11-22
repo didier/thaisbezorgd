@@ -1,7 +1,7 @@
 <script>
   import gerechten from './gerechten.json';
   import { fade, fly } from 'svelte/transition';
-  import { cartOpen, addToCart } from './cart.js';
+  import AddButton from './AddButton.svelte';
 </script>
 
 <main class="lg:w-2/4 lg:mx-8 mx-4">
@@ -15,12 +15,7 @@
           <p>{gerecht.desc}</p>
         </div>
         <div class="flex-end">
-          <button
-            on:click={() => {
-              addToCart(gerecht.id);
-            }}>
-            €{gerecht.price.toFixed(2)}
-          </button>
+          <AddButton {gerecht} />
         </div>
       </li>
     {/each}
