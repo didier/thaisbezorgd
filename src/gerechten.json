@@ -1,0 +1,457 @@
+[{
+  "id": 0,
+  "name": "Sate Kai",
+  "desc": "Drie stokjes Thaise kipsaté met heerlijke Thaise pindasaus",
+  "category": "voorgerechten",
+  "price": 6
+}, {
+  "id": 1,
+  "name": "Phor Pia Thod",
+  "desc": "Zes heerlijke Thaise loempia's, gevuld met kip en groenten",
+  "category": "voorgerechten",
+  "price": 6
+}, {
+  "id": 2,
+  "name": "Phor Pia Pak Thod",
+  "desc": "Zes heerlijke Thaise vegetarische loempia's",
+  "category": "voorgerechten",
+  "price": 5.5
+}, {
+  "id": 3,
+  "name": "Thod Man Pla",
+  "desc": "Vier gefrituurde Thaise viskoekjes met saus",
+  "category": "voorgerechten",
+  "price": 6
+}, {
+  "id": 4,
+  "name": "Kung Hom Pha",
+  "desc": "Zes garnalen in een knapperig dekentje",
+  "category": "voorgerechten",
+  "price": 7
+}, {
+  "id": 5,
+  "name": "Ruam Mid",
+  "desc": "Combinatie van bovenstaande voorgerechten ( 8 stuks )",
+  "category": "voorgerechten",
+  "price": 9.5
+}, {
+  "id": 6,
+  "name": "Thaise Spare Ribs",
+  "desc": "Portie Thaise gemarineerde spare ribs met saus.",
+  "category": "voorgerechten",
+  "price": 6
+}, {
+  "id": 7,
+  "name": "Kai Thod",
+  "desc": "Vijf gemarineerde kippenvleugels op Thaise wijze bereid",
+  "category": "voorgerechten",
+  "price": 6
+}, {
+  "id": 8,
+  "name": "Tom Kha Kai",
+  "desc": "Milde gekruide kokossoep met kip, champignons en bosui",
+  "category": "soepen",
+  "price": 6
+}, {
+  "id": 9,
+  "name": "Tom Yam Kai",
+  "desc": "Pittige kippensoep met champignons en koriander",
+  "category": "soepen",
+  "price": 6
+}, {
+  "id": 10,
+  "name": "Tom Yam Kung",
+  "desc": "Beroemde traditionele pittige garnalensoep",
+  "category": "soepen",
+  "price": 7.5
+}, {
+  "id": 11,
+  "name": "Tom Kha Kung",
+  "desc": "Pittige kokossoep met garnalen, champignons en koriander",
+  "category": "soepen",
+  "price": 7.5
+}, {
+  "id": 12,
+  "name": "Tom Yam Mix",
+  "desc": "Pittige soep met garnalen, vis, inktvis en groenten",
+  "category": "soepen",
+  "price": 9
+}, {
+  "id": 13,
+  "name": "Tom Yam Tahoe",
+  "desc": "Pittige vegetarische soep met tahoe en groenten",
+  "category": "soepen",
+  "price": 5
+}, {
+  "id": 14,
+  "name": "Laab Nua",
+  "desc": "Salade van fijn gehakte biefstuk met Thaise ingrediënten",
+  "category": "salades",
+  "price": 12
+}, {
+  "id": 15,
+  "name": "Nua Nam Tok",
+  "desc": "Thaise biefstuksalade met rode uien, munt en koriander",
+  "category": "salades",
+  "price": 11
+}, {
+  "id": 16,
+  "name": "Yam Nua",
+  "desc": "Salade met stukjes biefstuk, kousenband, komkommer en tomaat",
+  "category": "salades",
+  "price": 11
+}, {
+  "id": 17,
+  "name": "Yam Seafood Mixed",
+  "desc": "Thaise salade met garnalen, inktvis en diverse groenten",
+  "category": "salades",
+  "price": 15
+}, {
+  "id": 18,
+  "name": "Kaeng Kiaow Whaan Kai",
+  "desc": "Groene curry met kipfilet bereid in kokosmelk met diverse groenten en Thaise basilicum",
+  "category": "kipgerechten",
+  "price": 12.5
+}, {
+  "id": 19,
+  "name": "Kaeng Phed Kai",
+  "desc": "Rode curry met kipfilet bereid in kokosmelk met diverse groenten en Thaise basilicum",
+  "category": "kipgerechten",
+  "price": 12.5
+}, {
+  "id": 20,
+  "name": "Kaeng Sapparod",
+  "desc": "Rode curry met kipfilet bereid in kokosmelk met tomaat, ananas, uien, paprika, citroenblad, mini eggplant en Thaise basilicum",
+  "category": "kipgerechten",
+  "price": 13
+}, {
+  "id": 21,
+  "name": "Kaeng Karie Kai",
+  "desc": "Gele curry met kipfilet bereid in kokosmelk met aardappel en uien",
+  "category": "kipgerechten",
+  "price": 12.5
+}, {
+  "id": 22,
+  "name": "Kai Massaman",
+  "desc": "Massaman curry met kipfilet bereid in kokosmelk met aardappelen, uien en pinda's",
+  "category": "kipgerechten",
+  "price": 13
+}, {
+  "id": 23,
+  "name": "Kaeng Phaneng Kai",
+  "desc": "Zoete phaneng curry met kipfilet bereid in kokosmelk met diverse groenten",
+  "category": "kipgerechten",
+  "price": 13
+}, {
+  "id": 24,
+  "name": "Kai Phad Met Ma Muang",
+  "desc": "Roergebakken kipfilet met cashewnoten en diverse groenten",
+  "category": "kipgerechten",
+  "price": 13
+}, {
+  "id": 25,
+  "name": "Kai Phad Kratiam Prik Thai",
+  "desc": "Roergebakken kipfilet met knoflook en diverse groenten",
+  "category": "kipgerechten",
+  "price": 12.5
+}, {
+  "id": 26,
+  "name": "Kai Phad Nam Man Hoi",
+  "desc": "Roergebakkken kipfilet bereid in oestersaus met diverse groenten",
+  "category": "kipgerechten",
+  "price": 12.5
+}, {
+  "id": 27,
+  "name": "Kai Piaow Whaan",
+  "desc": "Kipfilet bereid in zoetzure saus met ananas, tomaat, paprika en uien",
+  "category": "kipgerechten",
+  "price": 12.5
+}, {
+  "id": 28,
+  "name": "Kai Phad Prik Sod",
+  "desc": "Roergebakken kipfilet met Spaanse pepertjes en diverse groenten",
+  "category": "kipgerechten",
+  "price": 12.5
+}, {
+  "id": 29,
+  "name": "Kai Phad Prik Bai Krapaow",
+  "desc": "Fijn gehakte kipfilet gebakken met kousenband, uien, courgette, knoflook en Thaise basilicum",
+  "category": "kipgerechten",
+  "price": 12.5
+}, {
+  "id": 30,
+  "name": "Kai Phad King",
+  "desc": "Roergebakken kipfilet bereid met verse gember, kousenband, uien, bloemkool, champignons en stukjes wortel",
+  "category": "kipgerechten",
+  "price": 12.5
+}, {
+  "id": 31,
+  "name": "Pad Phed Kai",
+  "desc": "Rode curry met kipfilet bereid in kokosmelk met kousenband, bloemkool, broccoli, courgette, uien en Thaise basilicum",
+  "category": "kipgerechten",
+  "price": 13
+}, {
+  "id": 32,
+  "name": "Kaeng Phed Nua",
+  "desc": "Rode curry met biefstuk bereid in kokosmelk met bamboe, Thaise basilicum en diverse groenten",
+  "category": "biefstukgerechten",
+  "price": 15
+}, {
+  "id": 33,
+  "name": "Phad Phed Nua",
+  "desc": "Rode curry met biefstuk bereid in kokosmelk met kousenband, bloemkool, broccoli, courgette, uien en Thaise basilicum",
+  "category": "biefstukgerechten",
+  "price": 15
+}, {
+  "id": 34,
+  "name": "Kaeng Phaneng Nua",
+  "desc": "Phaneng curry met biefstuk bereid in kokosmelk met citroenblad en diverse groenten",
+  "category": "biefstukgerechten",
+  "price": 15
+}, {
+  "id": 35,
+  "name": "Kaeng Massaman Nua",
+  "desc": "Massaman curry met biefstuk bereid in kokosmelk met aardappelen, uien en pinda's",
+  "category": "biefstukgerechten",
+  "price": 15.5
+}, {
+  "id": 36,
+  "name": "Kaeng Kiew Waan Nua",
+  "desc": "Groene curry met biefstuk bereid in kokosmelk met diverse groenten",
+  "category": "biefstukgerechten",
+  "price": 15
+}, {
+  "id": 37,
+  "name": "Nua Phad Nam Man Hoi",
+  "desc": "Biefstuk gebakken in oestersaus met diverse groenten",
+  "category": "biefstukgerechten",
+  "price": 15
+}, {
+  "id": 38,
+  "name": "Nua Piaow Whaan",
+  "desc": "Biefstuk bereid in zoetzure saus met ananas en diverse groenten",
+  "category": "biefstukgerechten",
+  "price": 15
+}, {
+  "id": 39,
+  "name": "Nua Met Ma Muang",
+  "desc": "Roergebakken biefstuk met cashewnoten en diverse groenten",
+  "category": "biefstukgerechten",
+  "price": 15.5
+}, {
+  "id": 40,
+  "name": "Nua Kratiam Prik Thai",
+  "desc": "Roergebakken biefstuk met knoflook en diverse groenten",
+  "category": "biefstukgerechten",
+  "price": 15
+}, {
+  "id": 41,
+  "name": "Nua Phad Prik Sod",
+  "desc": "Fijn gesneden biefstuk gebakken met Spaanse pepers en diverse groenten",
+  "category": "biefstukgerechten",
+  "price": 15
+}, {
+  "id": 42,
+  "name": "Nua Phad Prik Bai Krapauw",
+  "desc": "Fijngehakte biefstuk bereid met knoflook, kousenband, uien en Thaise basilicum",
+  "category": "biefstukgerechten",
+  "price": 15
+}, {
+  "id": 43,
+  "name": "Plaa Choochie",
+  "desc": "Visfilet met rode curry bereid in kokosmelk met kousenband, paprika, tomaat en uien",
+  "category": "visgerechten",
+  "price": 17
+}, {
+  "id": 44,
+  "name": "Plaa Piaow Whaan",
+  "desc": "Visfilet bereid in zoetzure saus, ananas, tomaat, paprika en uien",
+  "category": "visgerechten",
+  "price": 17
+}, {
+  "id": 45,
+  "name": "Plaa Phad Hom Hua",
+  "desc": "Roergebakken visfilet met champignons, bloemkool, kousenband, prei en uien",
+  "category": "visgerechten",
+  "price": 17
+}, {
+  "id": 46,
+  "name": "Pla Kratiam Prik Thai",
+  "desc": "Roergebakken stukjes visfilet bereid met broccoli, bloemkool, prei, champignons, uien en stukjes wortel",
+  "category": "visgerechten",
+  "price": 17
+}, {
+  "id": 47,
+  "name": "Kung Phad Bai Kraprauw",
+  "desc": "Roergebakken schotel met grote garnalen,kousenband, uien en Thaise Basilicum",
+  "category": "garnalen",
+  "price": 17
+}, {
+  "id": 48,
+  "name": "Kung Kratiam Prik Thai",
+  "desc": "Roergebakken schotel met grote garnalen met champignons broccoli, bloemkool en knoflook",
+  "category": "garnalen",
+  "price": 17
+}, {
+  "id": 49,
+  "name": "Kung Piaouw Waan",
+  "desc": "Grote garnalen gebakken in zoetzure saus, ananas, tomaat, komkommer, uien en paprika",
+  "category": "garnalen",
+  "price": 17
+}, {
+  "id": 50,
+  "name": "Kung Phad Pak Ruam",
+  "desc": "Grote garnalen gebakken in oestersaus met champignons, broccoli, taugé, uien en prei",
+  "category": "garnalen",
+  "price": 17
+}, {
+  "id": 51,
+  "name": "Kung Med Mamuang",
+  "desc": "Grote garnalen bereid met champignons, prei, bloemkool, cashewnoten en uien",
+  "category": "garnalen",
+  "price": 17
+}, {
+  "id": 52,
+  "name": "Kung Chu Chii",
+  "desc": "Grote garnalen bereid in kokosmelk met rode curry, tomaat, kousenband, prei en rode uien",
+  "category": "garnalen",
+  "price": 17
+}, {
+  "id": 53,
+  "name": "Seafood  Phad Prik Kaeng",
+  "desc": "Een speciaal visgerecht bereid in kokosmelk met rode curry, garnalen, visfilet, inktvis, diverse groenten en Thaise basilicum",
+  "category": "specialiteiten",
+  "price": 18.5
+}, {
+  "id": 54,
+  "name": "Phad Kee Mau Special",
+  "desc": "Heerlijke schotel met biefstuk, garnalen, inktvis, bereid in oestersaus met Thaise whisky en diversen groenten ",
+  "category": "specialiteiten",
+  "price": 18.5
+}, {
+  "id": 55,
+  "name": "Pla Rhat Prik",
+  "desc": "Hele gebakken vis met een heerlijke saus gemaakt van rode curry, kokosmelk, kousenband, prei, rode ui en Thaise kruiden",
+  "category": "specialiteiten",
+  "price": 18.5
+}, {
+  "id": 56,
+  "name": "Phad Thai Kai",
+  "desc": "Roegebakken Thaise rijstnoedels met kipfilet, taugé, rode uien, ei, prei en pinda's ",
+  "category": "noedels",
+  "price": 13
+}, {
+  "id": 57,
+  "name": "Phad Thai Nua",
+  "desc": "Gebakken Thaise rijstnoedels met biefstuk, rode uien, taugé, ei, prei en pinda's",
+  "category": "noedels",
+  "price": 14
+}, {
+  "id": 58,
+  "name": "Phad Thai Kung ",
+  "desc": "Gebakken Thaise rijstnoedels met garnalen, rode uien, taugé, ei, prei en pinda's",
+  "category": "noedels",
+  "price": 16
+}, {
+  "id": 59,
+  "name": "Phad Thai Special",
+  "desc": "Gebakken Thaise rijstnoedels met garnalen, biefstuk, kipfilet, ei, rode uien, taugé en cashewnoten",
+  "category": "noedels",
+  "price": 18.5
+}, {
+  "id": 60,
+  "name": "Phad Thai ",
+  "desc": "Roergebakken rijstnoedels met diverse groenten",
+  "category": "vegetarisch",
+  "price": 11.5
+}, {
+  "id": 61,
+  "name": "Phad Thai Tahoe",
+  "desc": "Roergebakken rijstnoedels met tahoe, pinda's en groenten",
+  "category": "vegetarisch",
+  "price": 12.5
+}, {
+  "id": 62,
+  "name": "Tahoe Phad Pak Ruam",
+  "desc": "Gebakken tahoe bereid met diverse groenten",
+  "category": "vegetarisch",
+  "price": 12.5
+}, {
+  "id": 63,
+  "name": "Tahoe Piauw Whaan",
+  "desc": "Gebakken tahoe bereid met zoetzure saus, champignons, ananas, komkommer, tomaat, paprika en uien",
+  "category": "vegetarisch",
+  "price": 12.5
+}, {
+  "id": 64,
+  "name": "Kaeng Kiaow Whaan Tahoe",
+  "desc": "Gebakken tahoe bereid in groene curry met kousenband, bamboe, courgette en Thaise basilicum",
+  "category": "vegetarisch",
+  "price": 12.5
+}, {
+  "id": 65,
+  "name": "Massaman Tahoe",
+  "desc": "Gebakken tahoe bereid in Massaman curry met kokosmelk, aardappelen, uien en pinda's",
+  "category": "vegetarisch",
+  "price": 12.5
+}, {
+  "id": 66,
+  "name": "Tahoe Phad King",
+  "desc": "Roergebakken gerecht met tahoe, diverse groenten en gember",
+  "category": "vegetarisch",
+  "price": 12.5
+}, {
+  "id": 67,
+  "name": "Kao Phad kai",
+  "desc": "Roergebakken rijst met kipfilet, broccoli, wortel, prei,  ei en rode uien",
+  "category": "gebakkenRijst",
+  "price": 12.5
+}, {
+  "id": 68,
+  "name": "Kao Phad Nua",
+  "desc": "Gebakken rijst met biefstuk, bloemkool, spitskool, broccoli, prei, ei, rode uien en stukjes wortel",
+  "category": "gebakkenRijst",
+  "price": 14.5
+}, {
+  "id": 69,
+  "name": "Kao Phad Special",
+  "desc": "Roergebakken rijst met garnalen, biefstuk, kipfilet, ei, broccoli, prei, bloemkool, spitskool, rode uien en stukjes wortel",
+  "category": "gebakkenRijst",
+  "price": 17.5
+}, {
+  "id": 70,
+  "name": "Extra bakje Thaise witte rijst",
+  "desc": "",
+  "category": "extras",
+  "price": 2.5
+}, {
+  "id": 71,
+  "name": "Extra bakje eigen gemaakte Thaise pindasaus",
+  "desc": "",
+  "category": "extras",
+  "price": 2
+}, {
+  "id": 72,
+  "name": "Phad Mi",
+  "desc": "Gebakken mie met gemengde groenten en eieren",
+  "category": "extras",
+  "price": 6
+}, {
+  "id": 73,
+  "name": "Kao Phad",
+  "desc": "Gebakken rijst met gemengde groenten en eieren",
+  "category": "extras",
+  "price": 6.5
+}, {
+  "id": 74,
+  "name": "Een portie eigen gemaakte kroepoek",
+  "desc": "",
+  "category": "extras",
+  "price": 1.5
+}, {
+  "id": 75,
+  "name": "Frisdrank (0,33 L)",
+  "desc": "Keuze uit Cola, Fanta, Cassis en Jillz 0.0%.",
+  "category": "gekoelde dranken",
+  "price": 2
+}]

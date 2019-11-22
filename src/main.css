@@ -1,0 +1,20 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+ul div button {
+  transition: background 0.3s;
+  @apply w-16 bg-blue-500 text-white py-2 rounded shadow-md;
+}
+
+ul div button:hover {
+  @apply bg-blue-400;
+}
+/* ul div button:before { */
+/* content: '+'; */
+/* @apply bg-blue-600 rounded-full w-6 h-6 inline-block flex-1; */
+/* } */
+
+h3 {
+  @apply text-lg tracking-wide font-semibold;
+}
